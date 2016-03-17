@@ -14,6 +14,8 @@
 		DB6CF52F1C9A3EA600893ED4 /* ___1_.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DB6CF52D1C9A3EA600893ED4 /* ___1_.xcdatamodeld */; };
 		DB6CF5311C9A3EA600893ED4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB6CF5301C9A3EA600893ED4 /* Assets.xcassets */; };
 		DB6CF5341C9A3EA600893ED4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB6CF5321C9A3EA600893ED4 /* LaunchScreen.storyboard */; };
+		DB6CF53D1C9A450500893ED4 /* sahglha ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DB6CF53C1C9A450500893ED4 /* sahglha ViewController.m */; };
+		DB6CF5401C9A450D00893ED4 /* laskjdflkViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DB6CF53F1C9A450D00893ED4 /* laskjdflkViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,10 @@
 		DB6CF5301C9A3EA600893ED4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB6CF5331C9A3EA600893ED4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DB6CF5351C9A3EA600893ED4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB6CF53B1C9A450500893ED4 /* sahglha ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "sahglha ViewController.h"; sourceTree = "<group>"; };
+		DB6CF53C1C9A450500893ED4 /* sahglha ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "sahglha ViewController.m"; sourceTree = "<group>"; };
+		DB6CF53E1C9A450D00893ED4 /* laskjdflkViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = laskjdflkViewController.h; sourceTree = "<group>"; };
+		DB6CF53F1C9A450D00893ED4 /* laskjdflkViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = laskjdflkViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +70,10 @@
 				DB6CF5251C9A3EA600893ED4 /* AppDelegate.m */,
 				DB6CF5271C9A3EA600893ED4 /* ViewController.h */,
 				DB6CF5281C9A3EA600893ED4 /* ViewController.m */,
+				DB6CF53E1C9A450D00893ED4 /* laskjdflkViewController.h */,
+				DB6CF53F1C9A450D00893ED4 /* laskjdflkViewController.m */,
+				DB6CF53B1C9A450500893ED4 /* sahglha ViewController.h */,
+				DB6CF53C1C9A450500893ED4 /* sahglha ViewController.m */,
 				DB6CF52A1C9A3EA600893ED4 /* Main.storyboard */,
 				DB6CF5301C9A3EA600893ED4 /* Assets.xcassets */,
 				DB6CF5321C9A3EA600893ED4 /* LaunchScreen.storyboard */,
@@ -156,7 +166,9 @@
 				DB6CF5291C9A3EA600893ED4 /* ViewController.m in Sources */,
 				DB6CF5261C9A3EA600893ED4 /* AppDelegate.m in Sources */,
 				DB6CF5231C9A3EA600893ED4 /* main.m in Sources */,
+				DB6CF5401C9A450D00893ED4 /* laskjdflkViewController.m in Sources */,
 				DB6CF52F1C9A3EA600893ED4 /* ___1_.xcdatamodeld in Sources */,
+				DB6CF53D1C9A450500893ED4 /* sahglha ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
